@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={stlye.background}>
       <Header></Header>
-      <h1 className={stlye.h1}>Home</h1>
+      <h1 className={stlye.h1}>Home p</h1>
 
       <Footer></Footer>
     </div>
