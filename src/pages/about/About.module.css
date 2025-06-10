@@ -1,0 +1,10 @@
+.background {
+  background-image: url(../../../pexels-cmonphotography-1809644.jpg);
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.h1{
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+.container {
+  max-width: 500px;
+  padding: 50px;
+  background: rgb(214, 214, 214);
+  border-radius: 100px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 30vh;
+}
+.btn button{
+    background-color: rgb(92, 143, 219);
+    border: none;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.btn  :hover{
+    background-color: blue;
+    color: white;
+    transition: background-color 0.2s;
+}
+.restartBtn button{
+    background-color: rgb(118, 229, 118);
+    border: none;
+    padding: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.restartBtn  :hover{
+    background-color: green;
+    
+}

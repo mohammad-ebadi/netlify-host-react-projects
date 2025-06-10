@@ -1,0 +1,35 @@
+/* .background {
+  background: #2a7b9b;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 58%,
+    rgba(237, 221, 83, 1) 100%
+  );
+} */
+.background {
+  background-image: url(../../../pexels-cmonphotography-1809644.jpg);
+  background-attachment:scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: gray; */
+}
+.olLinks li {
+  padding: 20px;
+  font-size: 30px;
+  margin-left: 10px;
+}
+.olLinks li a:hover {
+  color: rgb(255, 255, 255);
+}
+.olLinks a {
+  text-decoration: none;
+  color: black;
+}
+.olLinks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

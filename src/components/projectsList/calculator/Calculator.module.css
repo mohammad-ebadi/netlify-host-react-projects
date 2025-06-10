@@ -1,0 +1,84 @@
+.container {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.calculator {
+  background-color: gray;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 20px black;
+  width: 350px;
+  text-align: center;
+}
+.display {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  text-align: left;
+  min-height: 60px;
+
+}
+
+.equation{
+    color: gray;
+    font-size: 15px;
+    min-height: 20px;
+
+}
+.current{
+margin-top: 10px;
+font-size: 30px;
+}
+.buttons{
+    display: grid;
+    grid-template-columns: repeat(4 , 2fr);
+    gap: 10px;
+}
+.buttons button{
+    padding: 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.buttons  :hover{
+    background-color: rgb(202, 182, 182);
+}
+.buttons .clear{
+    background-color:crimson;
+    color: white;
+
+
+}
+.buttons .clear:hover{
+    background-color: red;
+}
+.buttons .equal{
+    background-color: lightgreen;
+}
+.buttons .equal:hover{
+    background-color: green;
+    color: white;
+    
+}
+.buttons .operators{
+    background-color: orange;
+}
+.buttons .operators:hover{
+    background-color:orangered;
+    color: white;
+}
+.buttons .operations{
+    background-color: plum;
+}
+.buttons .operations:hover{
+    background-color: purple;
+    color: white;
+}

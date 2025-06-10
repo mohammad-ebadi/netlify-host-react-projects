@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Is the Earth flat?",
+      "correctAnswer": "no"
+    },
+    {
+      "id": 2,
+      "question": "Is water wet?",
+      "correctAnswer": "yes"
+    },
+    {
+      "id": 3,
+      "question": "Is the sun a star?",
+      "correctAnswer": "yes"
+    },
+    {
+      "id": 4,
+      "question": "Can humans breathe underwater without equipment?",
+      "correctAnswer": "no"
+    },
+    {
+      "id": 5,
+      "question": "Is chocolate made from cocoa beans?",
+      "correctAnswer": "yes"
+    },
+    {
+      "id": 6,
+      "question": "Is the moon made of cheese?",
+      "correctAnswer": "no"
+    },
+    {
+      "id": 7,
+      "question": "Is the sky blue?",
+      "correctAnswer": "yes"
+    },
+    {
+      "id": 8,
+      "question": "Can fish fly?",
+      "correctAnswer": "no"
+    },
+    {
+      "id": 9,
+      "question": "Is fire hot?",
+      "correctAnswer": "yes"
+    },
+    {
+      "id": 10,
+      "question": "Is ice cold?",
+      "correctAnswer": "yes"
+    }
+  ]
+} 

@@ -1,0 +1,12 @@
+.background {
+  background-image: url(../../../pexels-pixabay-462162.jpg);
+  /* background-image: url(../../../public/pexels-cmonphotography-1809644.jpg); */
+  /* background-image: url(https://images.pexels.com/photos/1183099/pexels-photo-1183099.jpeg?auto=compress&cs=tinysrgb&w=600); */
+  background-attachment:scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.h1{
+  text-align: center;
+}

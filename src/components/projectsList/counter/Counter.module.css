@@ -1,0 +1,17 @@
+.btn button {
+  background-color: #4267B2;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
+.btn button:hover {
+  background-color: #a9a9ea;
+  transform: scale(1.05);
+}
+.container {
+  text-align: center;
+  margin: 20px 0;
+}
